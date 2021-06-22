@@ -479,6 +479,9 @@ footer p {
   .info {
     font-size: 20px;
   }
+  .btn {
+    font-size: 15px;
+  }
   .details {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -488,6 +491,15 @@ footer p {
   }
   .sidebar {
     margin-bottom: 80px;
+  }
+  .head-fqa {
+    font-size : 35px;
+  }
+}
+
+@media screen and (max-width : 680px) {
+  .avatar {
+    width: 50%;
   }
 }
 

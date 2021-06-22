@@ -503,6 +503,12 @@ footer p {
   }
 }
 
+@media screen and (max-width : 680px) {
+  .title {
+    font-size: 18px;
+  }
+}
+
 @media screen and (min-width: 950px){
     .flex-container {
         display: flex;
